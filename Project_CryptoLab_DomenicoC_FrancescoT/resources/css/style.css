@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(188, 255, 188);
+}
+
+.masthead{
+ background-image: url(https://images.unsplash.com/photo-1645731504684-0f6f9b73f8bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+}
+.form-custom{
+    margin-top: 200px;
+}
+
+.fixed-alert{
+    position: absolute;
+    top: 500px;
+    right: 35%;
+
+}
+
+.symbol-custom{
+    height: 30px;
+    width: 30px;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 200px;
+}
